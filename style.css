@@ -1,0 +1,82 @@
+:root {
+    --color-bg: #f5fefd;
+    --color-text-main: #000000;
+    --color-primary: #FFFF00;
+    --wrapper-height: 87vh;
+    --image-max-width: 300px;
+    --image-margin: 3rem;
+    --font-family: "HK Grotesk";
+    --font-family-header: "HK Grotesk";
+  }
+  
+  
+  
+  body {
+      font-family: 'Arial', sans-serif;
+      background-color: #E0F7FA; 
+      color: #333333;
+      line-height: 1.6;
+  }
+  
+  header {
+      background-color: #008080; 
+      color: white;
+      text-align: center;
+      padding: 2rem;
+  }
+  
+  header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+  }
+  
+  header p {
+      font-size: 1.2rem;
+  }
+  
+  .about {
+      background-color: #FFF8DC; 
+      padding: 2rem;
+      text-align: center;
+  }
+  
+  .about h2 {
+      font-size: 2rem;
+      color: #008080; 
+  }
+  
+  .about p {
+      font-size: 1.2rem;
+      max-width: 700px;
+      margin: 1rem auto;
+  }
+  
+  .hobbies {
+      background-color: white;
+      padding: 2rem;
+      text-align: center;
+  }
+  
+  .hobbies h2 {
+      font-size: 2rem;
+      color: #008080;
+  }
+  
+  .hobbies ul {
+      list-style-type: none;
+      margin: 1rem 0;
+      padding: 0;
+  }
+  
+  .hobbies li {
+      font-size: 1.2rem;
+      margin: 0.5rem 0;
+  }
+  
+  footer {
+      background-color: #008080; 
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+  }
